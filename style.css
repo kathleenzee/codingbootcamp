@@ -1,0 +1,85 @@
+/**css for homework 1**/
+
+body { 
+	background: #777;
+	width: 960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+	font-size: 18px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+}
+
+header {
+	padding: 10px;
+	text-align: center;
+	background: #f2f2f2;
+	color: #777777;	
+}
+
+nav {
+	background: #f2f2f2;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: gray;
+}
+
+footer {
+	padding: 20px;
+	clear: both;
+	background: #ebebeb;
+	text-align: center;
+	margin-top: 20px;
+	color: : #fff;
+	color: gray;
+}
+
+section {
+	float: left;
+	background: #ebebeb;
+	padding: 5px;
+	margin-bottom: 20px;
+	width: 495px;
+	color: #777777;
+	height: 355px;
+	text-align: center;
+}
+
+aside {
+	float: right;
+	width: 425px;
+	color: #777777;
+	text-align:center;
+	padding: 5px;
+	height: 355px;
+	background: #ebebeb;
+}
+	
+article { 
+	float: left;
+	width: 455px;
+	margin:5px;
+	padding: 10px;
+	background: #777777;
+	color: #ebebeb;
+}
+
+.clear {
+	clear: both; 
+	}
+
+.box {
+	width: 425px;
+	padding: 10px;
+	margin: 0px 0px 5px 0px;
+	color: #777777;
+	background-color: #ebebeb;
+}
+.box2 {
+	width: 425px;
+	padding: 10px;
+	margin: 0px 0px 5px 0px;
+	color: #777777;
+	background-color: #ebebeb;
+}
